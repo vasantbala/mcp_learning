@@ -11,3 +11,5 @@ GROQ_API_KEY=<API_KEY>
 3. `uv sync`
 4. `uv run simple-groq-openapi.py`
 5. `uv run agent-groq-openapi.py`
+6. `uv run server.py`
+7. `uv run main.py`
